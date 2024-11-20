@@ -1,10 +1,11 @@
+
 baseURL = 'https://elugiran.github.io/'
 title = 'E-LUG Embedded Linux User Group'
 
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+#contentDir = "content/fa"
+#defaultContentLanguage = "fa"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -53,33 +54,33 @@ anchor = "smart"
 
 # Language configuration
 
-[languages]
-[languages.en]
-languageName ="English"
-title = "Goldydocs"
-[languages.en.params]
-description = "A Docsy example site"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-#[languages.no]
-#languageName ="Norsk"
-#contentDir = "content/no"
-#title = "Gulldoks"
-#[languages.no.params]
-#description = "Docsy er operativsystem for skyen"
+#[languages]
+#[languages.en]
+#languageName ="English"
+#title = "E-LUG"
+#[languages.en.params]
+#description = "Embedded Linux User Group"
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
-[languages.fa]
-languageDirection = "rtl"
-languageName ="فارسی"
-contentDir = "content/fa"
-title = "اسناد گلدی"
-[languages.fa.params]
-description = "یک نمونه برای پوسته داکسی"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
+##[languages.no]
+##languageName ="Norsk"
+##contentDir = "content/no"
+##title = "Gulldoks"
+##[languages.no.params]
+##description = "Docsy er operativsystem for skyen"
+##time_format_default = "02.01.2006"
+##time_format_blog = "02.01.2006"
+
+#[languages.fa]
+#languageDirection = "rtl"
+#languageName ="فارسی (Persian)"
+#contentDir = "content/fa"
+#title = "E-LUG"
+#[languages.fa.params]
+#description = "Embedded Linux User Group"
+#time_format_default = "2006.01.02"
+#time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
@@ -145,8 +146,8 @@ offlineSearch = false
 prism_syntax_highlighting = false
 
 [params.copyright]
-  authors = "Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
-  from_year = 2023
+  authors = "e-lug team | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
+  from_year = 2024
 
 # User interface configuration
 [params.ui]
@@ -168,8 +169,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/elugiran/elugiran.github.io/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/elugiran/elugiran.github.io/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
@@ -180,45 +181,154 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
+  name = "elug team email address"
+  url = "mailto:elugiran@gmail.com"
   icon = "fa fa-envelope"
   desc = "Discussion and help from your fellow users"
 [[params.links.user]]
   name ="Twitter"
-  url = "https://example.org/twitter"
+  url = "https://x.com/elugiran"
   icon = "fab fa-twitter"
   desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+#[[params.links.user]]
+#  name = "Stack Overflow"
+#  url = "https://example.org/stack"
+#  icon = "fab fa-stack-overflow"
+#  desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/elugiran/"
   icon = "fab fa-github"
   desc = "Development takes place here!"
 [[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
+  name = "Telegram"
+  url = "https://t.me/###"
+  icon = "fab fa-telegram"
   desc = "Chat with other project developers"
 [[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  name = "Linkedin"
+  url = "https://linkedin.com/elugiran"
+  icon = "fa fa-linkedin"
+  desc = "Discuss development"
 
 # hugo module configuration
 
+
+
+# meetings, news, topics, providers,
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 10
+
+  [languages.en.menus]
+  [[languages.en.menus.main]]
+    identifier = "meetings"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Meetings"
+    url = "/meetings/" 
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 11
+  [[languages.en.menus.main]]
+    identifier = "news"
+    pre = ""
+    post = ""
+    name = "News"
+    url = "/news/"
+    title = ""
+    weight = 12
+  [[languages.en.menus.main]]
+    identifier = "topics"
+    pre = ""
+    post = ""
+    name = "Topics"
+    url = "/topics/"
+    title = ""
+    weight = 13
+  [[languages.en.menus.main]]
+    identifier = "providers"
+    pre = ""
+    post = ""
+    name = "Providers"
+    url = "/providers/"
+    title = ""
+    weight = 14
+  [[languages.en.menus.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 15
+
+
+  [languages.fa]
+    languageCode = 'fa'
+    languageName = 'Persian (فارسی)'
+    contentDir = 'content/fa'
+    weight = 20
+
+  [languages.fa.menus]
+  [[languages.fa.menus.main]]
+    identifier = "جلسات"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "جلسات"
+    url = "/meetings/" 
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 21
+  [[languages.fa.menus.main]]
+    identifier = "اخبار"
+    pre = ""
+    post = ""
+    name = "اخبار"
+    url = "/news/"
+    title = ""
+    weight = 22
+  [[languages.fa.menus.main]]
+    identifier = "موضوعات"
+    pre = ""
+    post = ""
+    name = "موضوعات"
+    url = "/topics/"
+    title = ""
+    weight = 23
+  [[languages.fa.menus.main]]
+    identifier = "اراپه دهندگان"
+    pre = ""
+    post = ""
+    name = "اراپه دهندگان"
+    url = "/providers/"
+    title = ""
+    weight = 24
+  [[languages.fa.menus.main]]
+    identifier = "درباره ما"
+    pre = ""
+    post = ""
+    name = "درباره ما"
+    url = "/about/"
+    title = ""
+    weight = 25
+
+
+
+
+
 [module]
-  # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
-  # workspace = "docsy.work"
-  [module.hugoVersion]
-    extended = true
-    min = "0.110.0"
-  [[module.imports]]
-    path = "github.com/google/docsy"
-    disable = false
+proxy = "direct"
+[[module.imports]]
+path = "github.com/google/docsy"
+
+
