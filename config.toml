@@ -20,30 +20,30 @@ title = "E-LUG Embedded Linux User Group"
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/fa"
+contentDir = "content"
 defaultContentLanguage = "fa"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
 # Comment out to disable taxonomies in Docsy
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+#disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # You can add your own taxonomies
 [taxonomies]
 #author = "author"
-category = "categories"
+#category = "categories"
 tag = "tags"
 
-[params.taxonomy]
+#[params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = []
+#taxonomyCloud = []
 
 # If used, must have same lang as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"]
+#taxonomyCloudTitle = ["Tag Cloud", "Categories"]
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"]
+#taxonomyPageHeader = ["tags", "categories"]
 
 # Highlighting config
 pygmentsCodeFences = true
@@ -99,7 +99,7 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-copyright = "Copyright © 2024 E-LUG Team"
+copyright = "Copyright E-LUG Team"
 github_repo = "https://github.com/elugiran/elugiran.github.io"
 github_project_repo = "https://github.com/elugiran"
 privacy_policy = ""
@@ -240,7 +240,7 @@ pre = "<i class='fas fa-certificate'></i>"
 weight = 13
 [[menu.main]]
 name = "درباره ما"
-url = "/about us/"
+url = "/about-us/"
 pre = "<i class='fas fa-briefcase'></i>"
 weight = 14
 

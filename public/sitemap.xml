@@ -2,16 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elugiran.github.io/categories/</loc>
+    <loc>https://elugiran.github.io/</loc>
+    <lastmod>2018-03-05T11:13:45-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://elugiran.github.io/</loc>
-    <lastmod>2024-11-20T17:36:41+03:30</lastmod>
+    <loc>https://elugiran.github.io/topics/hello-world/</loc>
+    <lastmod>2018-03-05T11:13:45-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/topics/</loc>
+    <lastmod>2018-03-05T11:13:45-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/about-us/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/false/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/meetings/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/news/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/providers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/tango/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/true/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
