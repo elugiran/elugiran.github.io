@@ -5,7 +5,6 @@ description: "connect with us"
 
 ---
 
----
 <div class="hero -mt-5 pb-0" style="min-height: 80vh" dir="rtl">
   <div class="container" dir="rtl">
     <div class="row justify-content-center align-items-center text-center" dir="rtl">
