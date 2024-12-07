@@ -197,15 +197,26 @@ icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/elugiran"
 [[params.links.user]]
-desc = "Chat with other project users in #users"
-icon = "fab fa-slack"
-name = "Slack"
-url = "/slack"
+desc = "whats videos"
+icon = "fab fa-youtube"
+name = "Youtube"
+url = "https://youtube.com/elugiran"
 [[params.links.user]]
 desc = "Development takes place here!"
 icon = "fab fa-github"
 name = "GitHub"
 url = "https://github.com/elugiran"
+[[params.links.user]]
+name = "Telegram"
+url = "https://t.me/elugiran"
+icon = "fab fa-telegram"
+desc = "Chat with other developers"
+[[params.links.user]]
+name = "Linkedin"
+url = "https://linkedin.com/elugiran"
+icon = "fa fa-linkedin"
+desc = "Linkedin"
+
 
 [sitemap]
 changefreq = "monthly"
