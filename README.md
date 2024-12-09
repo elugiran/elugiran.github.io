@@ -38,40 +38,68 @@ to install hugo extended version on ubuntu x86-64.
 
 > hugo_extended_(version)_linux-(arch).deb
 
-```
+``` bash
 sudo apt install ./hugo_extended_(version)_linux-(arch).deb
 ```
 
 
 #### install NPM
 
+``` bash 
 sudo apt install npm
+```
 
 ! more dependency is needed !
 
 #### Clone Project
 
-```
+``` bash
 git clone https://github.com/elugiran/elugiran.github.io.git
 cd elugiran.github.io
 vim content/topics/test.md
 ```
-in test.md file:
-```
+
+in test.md file write this:
+
+``` bash
++++                                                                             
+title = "Hello World"
+date = "2018-03-05T11:13:45-08:00"
+author = "Milad Mohammadi"
+description = "this is a simple post"
+categories = ["Tutorials"]
+type = "blog"
++++
+
 ## this is test
 # hello world
+
 ```
+
 for local test:
-```
+``` bash
 hugo server -D
+
 ```
+
+and now open your browser with this address:
+``` bash
+http://localhost:1313/
+```
+
 for release:
-```
+``` bash
 rm -rf public/
 hugo -e development
 ```
 
 > :warning: حتما قبل از push دایرکتوری public را یک بار پاک کنید
+
+when you ready for publish:
+```
+git push origin main
+```
+
 
 
 #### Tips
@@ -89,6 +117,7 @@ hugo -e development
 
 #### site directories
 
+
 | نام دایرکتوری  | توضیحات |
 | ------------- |:-------------:|
 |   content       | دایرکتوری اصلی برای home page     |
@@ -97,6 +126,7 @@ hugo -e development
 |   news          | اخبار و اطلاعات مربوط به تشکیل جلسات بعدی     |
 |   providers     | اسامی مهندسین ارائه دهنده مطلب در ایلاگ     |
 |   topics        | موضوعات و مقالات سایت     |
+
 
 
 
@@ -121,4 +151,6 @@ hugo -e development
 ## more info
 
 [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+
 [Docsy Get Start](https://www.docsy.dev/docs/get-started/)
+
