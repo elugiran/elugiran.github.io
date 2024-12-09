@@ -7,7 +7,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://elugiran.github.io/author/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/categories/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://elugiran.github.io/topics/freertos-simulation-on-linux-by-hossein-assaran/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/author/hossein-assaran/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/author/mohammad-moslemi-abarghan/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/categories/tutorials/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/author/abdorahman-amani/</loc>
     <lastmod>2024-12-07T10:39:37+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -18,6 +48,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/topics/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/author/hossein-lachini/</loc>
     <lastmod>2024-12-07T10:39:37+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -33,6 +68,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/topics/hello-world/</loc>
+    <lastmod>2024-12-07T10:39:37+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/author/milad-mohammadi/</loc>
     <lastmod>2024-12-07T10:39:37+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

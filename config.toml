@@ -31,8 +31,8 @@ enableMissingTranslationPlaceholders = true
 
 # You can add your own taxonomies
 [taxonomies]
-#author = "author"
-#category = "categories"
+author = "author"
+category = "categories"
 tag = "tags"
 
 #[params.taxonomy]
@@ -111,7 +111,7 @@ privacy_policy = ""
 # current release branch - could be rc
 release_branch = "main"
 # the main version. Never is rc.
-release_version = "v1.0.1"
+release_version = "v1.0.2"
 
 slackurl = "/slack"
 
@@ -240,8 +240,8 @@ url = "/news/"
 pre = "<i class='fas fa-blog'></i>"
 weight = 11
 [[menu.main]]
-name = "موضوعات"
-url = "/topics/"
+name = "آموزش"
+url = "/learning/"
 pre = "<i class='fas fa-store'></i>"
 weight = 12
 [[menu.main]]

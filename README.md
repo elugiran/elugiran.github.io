@@ -96,7 +96,7 @@ hugo -e development
 > :warning: حتما قبل از push دایرکتوری public را یک بار پاک کنید
 
 when you ready for publish:
-```
+``` bash
 git push origin main
 ```
 
@@ -132,10 +132,26 @@ git push origin main
 
 #### _index.md
 
-این فایل در صفحات تکی مانند about-us و home-page و مابقی با همین نام و مشخصات قابل تغییر میباشد بدین صورت که میتوانید هر مطبی را با توجه به
+این فایل در صفحات تکی مانند about-us و home-page و مابقی با همین نام و مشخصات قابل تغییر میباشد بدین صورت که میتوانید هر مطبی را با توجه به مشخصات همان صفحه به صورت MarkDown یا با html و CSS و یا توسط javascript به دلخواه تغییر دهید.
 
 
-در دایرکتوری topics میتوانید فایلی با نام دلخواه و پسوند .md اضافه کنید.
+شما میتوانید در دایرکتوری topics فایلی با نام دلخواه و پسوند .md اضافه کنید. تنها نکته اینجاست که باید حتما در قسمت هدر مشخصات درستی را درج نمایید 
+
+مثال:
+```
++++                                                                             
+title = "Hello World"
+date = "2018-03-05T11:13:45-08:00"
+author = "Milad Mohammadi"
+description = "this is a simple post"
+categories = ["events"]
+type = "blog"
++++
+
+این هدر باید حتما در داخل فایل قرار بگیرد
+قسمت های title , date , author , description مناسب با عنوان قابل تغییر است.
+
+```
 
 
 
