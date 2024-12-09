@@ -232,17 +232,17 @@ indexName = "elugiran"
 [[menu.main]]
 name = "جلسات"
 url = "/meetings/"
-pre = "<i class='fas fa-book'></i>"
+pre = "<i class='fas fa-handshake'></i>"
 weight = 10
 [[menu.main]]
 name = "اخبار"
 url = "/news/"
-pre = "<i class='fas fa-blog'></i>"
+pre = "<i class='fas fa-newspaper'></i>"
 weight = 11
 [[menu.main]]
 name = "آموزش"
 url = "/learning/"
-pre = "<i class='fas fa-store'></i>"
+pre = "<i class='fas fa-chalkboard-teacher'></i>"
 weight = 12
 [[menu.main]]
 name = "ارائه دهندگان"
@@ -252,7 +252,7 @@ weight = 13
 [[menu.main]]
 name = "درباره ما"
 url = "/about-us/"
-pre = "<i class='fas fa-briefcase'></i>"
+pre = "<i class='fas fa-address-card'></i>"
 weight = 14
 
 

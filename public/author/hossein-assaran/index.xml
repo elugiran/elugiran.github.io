@@ -6,20 +6,20 @@
     <description>Recent content in Hossein Assaran on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Dec 2024 10:39:37 +0330</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 11:13:45 -0800</lastBuildDate>
     <atom:link href="https://elugiran.github.io/author/hossein-assaran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FreeRTOS Simulation on Linux</title>
-      <link>https://elugiran.github.io/topics/freertos-simulation-on-linux-by-hossein-assaran/</link>
+      <link>https://elugiran.github.io/learning/freertos-simulation-on-linux-by-hossein-assaran/</link>
       <pubDate>Tue, 20 Aug 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/topics/freertos-simulation-on-linux-by-hossein-assaran/</guid>
+      <guid>https://elugiran.github.io/learning/freertos-simulation-on-linux-by-hossein-assaran/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust: Benefits and Weaknesses</title>
-      <link>https://elugiran.github.io/topics/rust-benefits-and-weaknesses-by-hossein-assaran/</link>
+      <link>https://elugiran.github.io/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</link>
       <pubDate>Mon, 27 Feb 2023 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/topics/rust-benefits-and-weaknesses-by-hossein-assaran/</guid>
+      <guid>https://elugiran.github.io/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</guid>
       <description></description>
     </item>
   </channel>

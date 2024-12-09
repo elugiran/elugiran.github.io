@@ -144,7 +144,7 @@ title = "Hello World"
 date = "2018-03-05T11:13:45-08:00"
 author = "Milad Mohammadi"
 description = "this is a simple post"
-categories = ["events"]
+categories = ["Tutorials"]
 type = "blog"
 +++
 
