@@ -214,7 +214,7 @@ desc = "Chat with other developers"
 [[params.links.user]]
 name = "Linkedin"
 url = "https://linkedin.com/elugiran"
-icon = "fa fa-linkedin"
+icon = "fab fa-linkedin"
 desc = "Linkedin"
 
 
