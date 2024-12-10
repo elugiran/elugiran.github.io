@@ -3,82 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://elugiran.github.io/learning/an-introduction-to-yocto-by-mohammad-moslemi-abarghan/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/categories/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/freertos-simulation-on-linux-by-hossein-assaran/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/hossein-assaran/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/mohammad-moslemi-abarghan/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/categories/tutorials/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://elugiran.github.io/learning/</loc>
-    <lastmod>2024-08-20T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/abdorahman-amani/</loc>
-    <lastmod>2024-04-16T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/lessons-from-android-for-embedded-systems-by-abdorahman-amani/</loc>
-    <lastmod>2024-04-16T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</loc>
-    <lastmod>2024-04-16T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/hossein-lachini/</loc>
-    <lastmod>2023-02-27T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/power-saving-in-embedded-linux-by-hossein-lachini/</loc>
-    <lastmod>2023-02-27T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</loc>
-    <lastmod>2023-02-27T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/learning/hello-world/</loc>
-    <lastmod>2018-03-05T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/author/milad-mohammadi/</loc>
-    <lastmod>2018-03-05T11:13:45-08:00</lastmod>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -125,6 +120,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/true/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://elugiran.github.io/learning/</loc>
+    <lastmod>2024-12-09T13:42:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
