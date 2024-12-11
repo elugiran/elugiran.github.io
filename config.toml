@@ -123,7 +123,7 @@ notoc = true
 
 # First one is picked as the Twitter card image if not set on page.
 #images = ["images/og-image-fission.png"]
-images = ["images/elug-logo-v3-light-bg.png"]
+images = ["images/elug-logo-v3-dark-bg.png"]
 
 
 [params.social]
