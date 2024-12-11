@@ -2,6 +2,7 @@
 title: "meetings"
 linkTitle: "meetings"
 description: "information about meetings"
+images: ["images/elug-logo-v3-dark-bg.png"]
 
 ---
 

@@ -2,7 +2,7 @@
 title: "E-LUG"
 linkTitle: "E-LUG"
 description: "Embedded Linux User Group"
-
+images: ["images/elug-logo-v3-dark-bg.png"]
 ---
 
 <div class="hero">

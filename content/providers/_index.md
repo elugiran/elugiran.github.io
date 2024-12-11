@@ -2,6 +2,7 @@
 title: "E-LUG"
 linkTitle: "providers"
 description: "list of providers in elug"
+images: ["images/elug-logo-v3-dark-bg.png"]
 
 ---
 

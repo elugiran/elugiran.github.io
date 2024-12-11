@@ -2,7 +2,7 @@
 title: "E-LUG"
 linkTitle: "about-us"
 description: "connect with us"
-
+images: ["images/elug-logo-v3-dark-bg.png"]
 ---
 
 <div class="hero -mt-5 pb-0" style="min-height: 80vh" dir="rtl">
