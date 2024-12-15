@@ -9,9 +9,9 @@
     <atom:link href="https://elugiran.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth Event</title>
-      <link>https://elugiran.github.io/meetings/fourth_event/</link>
+      <link>https://elugiran.github.io/meetings/005_event/</link>
       <pubDate>Mon, 16 Sep 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/meetings/fourth_event/</guid>
+      <guid>https://elugiran.github.io/meetings/005_event/</guid>
       <description></description>
     </item>
     <item>
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Third Event</title>
-      <link>https://elugiran.github.io/meetings/third_event/</link>
+      <link>https://elugiran.github.io/meetings/003_event/</link>
       <pubDate>Tue, 20 Aug 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/meetings/third_event/</guid>
+      <guid>https://elugiran.github.io/meetings/003_event/</guid>
       <description></description>
     </item>
     <item>
@@ -51,16 +51,16 @@
     </item>
     <item>
       <title>Second Event</title>
-      <link>https://elugiran.github.io/meetings/second_event/</link>
+      <link>https://elugiran.github.io/meetings/002_event/</link>
       <pubDate>Tue, 16 Apr 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/meetings/second_event/</guid>
+      <guid>https://elugiran.github.io/meetings/002_event/</guid>
       <description></description>
     </item>
     <item>
       <title>First Event</title>
-      <link>https://elugiran.github.io/meetings/first_event/</link>
+      <link>https://elugiran.github.io/meetings/001_event/</link>
       <pubDate>Mon, 27 Feb 2023 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/meetings/first_event/</guid>
+      <guid>https://elugiran.github.io/meetings/001_event/</guid>
       <description></description>
     </item>
     <item>

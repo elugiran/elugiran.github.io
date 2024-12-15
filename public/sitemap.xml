@@ -12,7 +12,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://elugiran.github.io/meetings/fourth_event/</loc>
+    <loc>https://elugiran.github.io/meetings/005_event/</loc>
     <lastmod>2024-09-16T11:13:45-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,7 +42,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://elugiran.github.io/meetings/third_event/</loc>
+    <loc>https://elugiran.github.io/meetings/003_event/</loc>
     <lastmod>2024-08-20T11:13:45-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,12 +67,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://elugiran.github.io/meetings/second_event/</loc>
+    <loc>https://elugiran.github.io/meetings/002_event/</loc>
     <lastmod>2024-04-16T11:13:45-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://elugiran.github.io/meetings/first_event/</loc>
+    <loc>https://elugiran.github.io/meetings/001_event/</loc>
     <lastmod>2023-02-27T11:13:45-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -144,7 +144,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://elugiran.github.io/meetings/</loc>
-    <lastmod>2024-12-15T10:44:52+03:30</lastmod>
+    <lastmod>2024-12-15T11:22:27+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
