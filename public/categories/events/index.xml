@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetings on E-LUG Embedded Linux User Group</title>
-    <link>https://elugiran.github.io/meetings/</link>
-    <description>Recent content in Meetings on E-LUG Embedded Linux User Group</description>
+    <title>Events on E-LUG Embedded Linux User Group</title>
+    <link>https://elugiran.github.io/categories/events/</link>
+    <description>Recent content in Events on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
-    <atom:link href="https://elugiran.github.io/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 11:13:45 -0800</lastBuildDate>
+    <atom:link href="https://elugiran.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth Event</title>
       <link>https://elugiran.github.io/meetings/fourth_event/</link>
