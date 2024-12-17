@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hossein Lachini on E-LUG Embedded Linux User Group</title>
-    <link>https://elugiran.github.io/author/hossein-lachini/</link>
+    <link>http://localhost:1313/author/hossein-lachini/</link>
     <description>Recent content in Hossein Lachini on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
     <lastBuildDate>Mon, 09 Dec 2024 13:42:27 +0330</lastBuildDate>
-    <atom:link href="https://elugiran.github.io/author/hossein-lachini/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/author/hossein-lachini/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Saving in Embedded Linux</title>
-      <link>https://elugiran.github.io/learning/power-saving-in-embedded-linux-by-hossein-lachini/</link>
+      <link>http://localhost:1313/learning/power-saving-in-embedded-linux-by-hossein-lachini/</link>
       <pubDate>Mon, 27 Feb 2023 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/power-saving-in-embedded-linux-by-hossein-lachini/</guid>
+      <guid>http://localhost:1313/learning/power-saving-in-embedded-linux-by-hossein-lachini/</guid>
       <description></description>
     </item>
   </channel>

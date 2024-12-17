@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-LUG Blog on E-LUG Embedded Linux User Group</title>
-    <link>https://elugiran.github.io/learning/</link>
+    <link>http://localhost:1313/learning/</link>
     <description>Recent content in E-LUG Blog on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
-    <atom:link href="https://elugiran.github.io/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An introduction to Yocto</title>
-      <link>https://elugiran.github.io/learning/an-introduction-to-yocto-by-mohammad-moslemi-abarghan/</link>
+      <link>http://localhost:1313/learning/an-introduction-to-yocto-by-mohammad-moslemi-abarghan/</link>
       <pubDate>Tue, 20 Aug 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/an-introduction-to-yocto-by-mohammad-moslemi-abarghan/</guid>
+      <guid>http://localhost:1313/learning/an-introduction-to-yocto-by-mohammad-moslemi-abarghan/</guid>
       <description></description>
     </item>
     <item>
       <title>FreeRTOS Simulation on Linux</title>
-      <link>https://elugiran.github.io/learning/freertos-simulation-on-linux-by-hossein-assaran/</link>
+      <link>http://localhost:1313/learning/freertos-simulation-on-linux-by-hossein-assaran/</link>
       <pubDate>Tue, 20 Aug 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/freertos-simulation-on-linux-by-hossein-assaran/</guid>
+      <guid>http://localhost:1313/learning/freertos-simulation-on-linux-by-hossein-assaran/</guid>
       <description></description>
     </item>
     <item>
       <title>Lessons From Android For Embedded Systems</title>
-      <link>https://elugiran.github.io/learning/lessons-from-android-for-embedded-systems-by-abdorahman-amani/</link>
+      <link>http://localhost:1313/learning/lessons-from-android-for-embedded-systems-by-abdorahman-amani/</link>
       <pubDate>Tue, 16 Apr 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/lessons-from-android-for-embedded-systems-by-abdorahman-amani/</guid>
+      <guid>http://localhost:1313/learning/lessons-from-android-for-embedded-systems-by-abdorahman-amani/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust in Embedded Systems (Avantages &amp; Applications)</title>
-      <link>https://elugiran.github.io/learning/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</link>
+      <link>http://localhost:1313/learning/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</link>
       <pubDate>Tue, 16 Apr 2024 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</guid>
+      <guid>http://localhost:1313/learning/rust-in-embedded-systems-avantages-applications-by-mohammad-moslemi-abarghan/</guid>
       <description></description>
     </item>
     <item>
       <title>Power Saving in Embedded Linux</title>
-      <link>https://elugiran.github.io/learning/power-saving-in-embedded-linux-by-hossein-lachini/</link>
+      <link>http://localhost:1313/learning/power-saving-in-embedded-linux-by-hossein-lachini/</link>
       <pubDate>Mon, 27 Feb 2023 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/power-saving-in-embedded-linux-by-hossein-lachini/</guid>
+      <guid>http://localhost:1313/learning/power-saving-in-embedded-linux-by-hossein-lachini/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust: Benefits and Weaknesses</title>
-      <link>https://elugiran.github.io/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</link>
+      <link>http://localhost:1313/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</link>
       <pubDate>Mon, 27 Feb 2023 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</guid>
+      <guid>http://localhost:1313/learning/rust-benefits-and-weaknesses-by-hossein-assaran/</guid>
       <description></description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://elugiran.github.io/learning/hello-world/</link>
+      <link>http://localhost:1313/learning/hello-world/</link>
       <pubDate>Mon, 05 Mar 2018 11:13:45 -0800</pubDate>
-      <guid>https://elugiran.github.io/learning/hello-world/</guid>
-      <description>&lt;h1 id=&#34;first&#34;&gt;First&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#first&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;you most put this header in all new files (posts)&lt;/p&gt;&#xA;&lt;p&gt;and put your present title and your name,&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;+++                                                                             &#xA;title = &amp;#34;Hello World&amp;#34;&#xA;date = &amp;#34;2018-03-05T11:13:45-08:00&amp;#34;&#xA;author = &amp;#34;Milad Mohammadi&amp;#34;&#xA;description = &amp;#34;this is a simple post&amp;#34;&#xA;categories = [&amp;#34;Tutorials&amp;#34;]&#xA;type = &amp;#34;blog&amp;#34;&#xA;+++&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;now here write your markdown based text.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;installations&#34;&gt;Installations&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#installations&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;For Linux:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;deploy-hello-world&#34;&gt;Deploy &amp;ldquo;Hello World!&amp;rdquo;&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#deploy-hello-world&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;becarefull to put true time and date&lt;/p&gt;</description>
+      <guid>http://localhost:1313/learning/hello-world/</guid>
+      <description>&lt;h1 id=&#34;first&#34;&gt;First&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#first&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;you most put this header in all new files (posts)&lt;/p&gt;&#xA;&lt;p&gt;and put your present title and your name,&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;+++                                                                             &#xD;&#xA;title = &amp;#34;Hello World&amp;#34;&#xD;&#xA;date = &amp;#34;2018-03-05T11:13:45-08:00&amp;#34;&#xD;&#xA;author = &amp;#34;Milad Mohammadi&amp;#34;&#xD;&#xA;description = &amp;#34;this is a simple post&amp;#34;&#xD;&#xA;categories = [&amp;#34;Tutorials&amp;#34;]&#xD;&#xA;type = &amp;#34;blog&amp;#34;&#xD;&#xA;+++&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;now here write your markdown based text.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;installations&#34;&gt;Installations&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#installations&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;For Linux:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;deploy-hello-world&#34;&gt;Deploy &amp;ldquo;Hello World!&amp;rdquo;&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#deploy-hello-world&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;becarefull to put true time and date&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

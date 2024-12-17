@@ -1,0 +1,340 @@
+
+body {
+    font-family: 'Vazirmatn', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f5ff;
+    /* color: #4a0e78; */
+    color: #333;
+    line-height: 1.6;
+}
+
+
+
+
+.info-container, .event-info, .benefits-list, .speakers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.info-item, .speaker, .benefit-item {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: 300px;
+    box-sizing: border-box;
+}
+
+
+.info-item h3, .info-item p {
+    font-weight: 700; /* Make text bold inside each box */
+}
+
+.info-item:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Box Styling for Content */
+.content-box {
+    background-color: #ffffff; /* White background */
+    border: 1px solid #ddd;    /* Subtle border */
+    border-radius: 20px;       /* More rounded corners */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 50px 40px;        /* Increase padding for more space */
+    width: 80%;                /* Set a larger width */
+    max-width: 700px;          /* Limit box size on larger screens */
+    margin: 0 auto;            /* Center the box horizontally */
+    text-align: center;        /* Center-align the text */
+    transition: all 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+.content-box:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+    transform: translateY(-5px); /* Slight lift */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;   /* Horizontal centering */
+    /* justify-content: space-between; */
+    align-items: center;
+    text-align: center;        /* Text alignment inside the flex item */
+    gap: 20px;
+}
+
+/* Text Styling */
+.section-title {
+    font-size: 2.5em;
+    color: #2f2d31;
+    margin-bottom: 20px;
+    font-weight: 700; /* Make the text bold */
+    text-align: center; /* Center the title */
+}
+
+.section-text {
+    font-size: 1.2em;
+    color: #555;
+    font-weight: 600; /* Slightly bold */
+    text-align: center; /* Center the paragraph */
+    line-height: 1.8; /* Improve readability */
+}
+
+/* Button Styling */
+.hero-btn {
+    background-color: #4a0e78;
+    color: #fff;
+    padding: 12px 30px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+.hero-btn:hover {
+    background-color: #5b21b6;
+    transform: scale(1.05);
+}
+
+
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 30px;
+}
+
+
+
+.info-item {
+    background-color: #ffffff; /* White background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    padding: 30px; /* Padding inside */
+    text-align: center; /* Centered text */
+    transition: transform 0.3s ease; /* Smooth animation */
+    flex: 1 1 calc(33.33%  - 40px); 
+    /* Flexible width with spacing */
+    max-width: 400px; 
+    /* Ensure boxes don't get too large */
+    box-sizing: border-box; 
+    /* Include padding and border in width */
+}
+
+.info-item:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+
+.info-item i {
+    font-size: 3em; /* Larger icon */
+    color: #6a1b9a; /* Purple color for icons */
+    margin-bottom: 10px; /* Space below icon */
+}
+
+
+
+
+
+.poster {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    margin: 40px auto; /* Add margin to space the poster out */
+    display: block;
+}
+
+
+.speaker {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 30px;
+    width: 100%; /* Default width for mobile-first */
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.speaker:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Speaker Titles */
+.speaker h2 {
+    font-size: 2em;
+    color: #4a0e78;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.speaker h6 {
+    font-size: 1.2em;
+    color: #2b2a2c;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+
+
+.speaker p {
+    font-size: 1.1em;
+    color: #555;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+
+
+
+
+.benefits {
+    background-color: #f8f5ff; /* Light background */
+    padding: 50px 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.benefits-title {
+    font-size: 2.5em;
+    color: #4a0e78;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+
+.benefit-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.benefit-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+.benefit-item i {
+    font-size: 2.5em;
+    color: #6a1b9a;
+    margin-bottom: 15px;
+}
+
+.benefit-item p {
+    font-size: 1.1em;
+    color: #555;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+
+
+
+.register {
+    background-color: #716683;
+    color: white;
+    padding: 20px 40px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 40px auto;
+}
+.register:hover {
+    background-color: #5b21b6;
+}
+
+
+
+footer {
+    background-color: #4a0e78;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .info-container {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: center;
+    }
+    .info-item {
+        width: 90%; /* Make boxes take 90% of the container width on smaller screens */
+    }
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .benefits-list {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero-image {
+        margin-top: 20px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .info-item, .speaker, .benefit-item {
+        flex-basis: 100%;
+    }
+}
+
+.info-item:hover, .speaker:hover, .benefit-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .speakers {
+        flex-direction: column;
+        align-items: center;
+    }
+    .speaker {
+        width: 90%;
+    }
+}
+
