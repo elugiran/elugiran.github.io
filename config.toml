@@ -89,9 +89,12 @@ id = ""
 
 [languages]
 [languages.fa]
+languageDirection = "rtl"
+languageName = "Persian"
 [languages.fa.params]
 description = "E-LUG Embedded Linux User Group"
-languageName = "Persian"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
 #title = "E-LUG"
 # Weight used for sorting.
 weight = 1
@@ -193,31 +196,37 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-desc = "Follow us on Twitter to get the latest news!"
-icon = "fab fa-twitter"
-name = "Twitter"
-url = "https://twitter.com/elugiran"
-[[params.links.user]]
-desc = "whats videos"
-icon = "fab fa-youtube"
-name = "Youtube"
-url = "https://youtube.com/elugiran"
-[[params.links.user]]
-desc = "Development takes place here!"
-icon = "fab fa-github"
-name = "GitHub"
-url = "https://github.com/elugiran"
-[[params.links.user]]
-name = "Telegram"
-url = "https://t.me/elugiran"
-icon = "fab fa-telegram"
-desc = "Chat with other developers"
-[[params.links.user]]
+
+[[params.links.developer]]
 name = "Linkedin"
 url = "https://linkedin.com/elugiran"
 icon = "fab fa-linkedin"
 desc = "Linkedin"
+
+#[[params.links.user]]
+#desc = "Follow us on Twitter to get the latest news!"
+#icon = "fab fa-twitter"
+#name = "Twitter"
+#url = "https://twitter.com/elugiran"
+
+[[params.links.developer]]
+desc = "whats videos"
+icon = "fab fa-youtube"
+name = "Youtube"
+url = "https://youtube.com/elugiran"
+
+[[params.links.developer]]
+desc = "Development takes place here!"
+icon = "fab fa-github"
+name = "GitHub"
+url = "https://github.com/elugiran"
+
+[[params.links.developer]]
+name = "Telegram"
+url = "https://t.me/elugiran"
+icon = "fab fa-telegram"
+desc = "Chat with other developers"
+
 
 
 [sitemap]
@@ -235,27 +244,27 @@ indexName = "elugiran"
 name = "جلسات"
 url = "/meetings/"
 pre = "<i class='fas fa-handshake'></i>"
-weight = 10
+weight = 15
 [[menu.main]]
 name = "اخبار"
 url = "/news/"
 pre = "<i class='fas fa-newspaper'></i>"
-weight = 11
+weight = 14
 [[menu.main]]
 name = "آموزش"
 url = "/learning/"
 pre = "<i class='fas fa-chalkboard-teacher'></i>"
-weight = 12
+weight = 13
 [[menu.main]]
 name = "ارائه دهندگان"
 url = "/providers/"
 pre = "<i class='fas fa-certificate'></i>"
-weight = 13
+weight = 12
 [[menu.main]]
 name = "درباره ما"
 url = "/about-us/"
 pre = "<i class='fas fa-address-card'></i>"
-weight = 14
+weight = 11
 
 
 
