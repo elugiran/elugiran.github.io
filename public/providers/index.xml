@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-LUG on E-LUG Embedded Linux User Group</title>
-    <link>http://localhost:1313/providers/</link>
+    <link>https://elugiran.github.io/providers/</link>
     <description>Recent content in E-LUG on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
-    <atom:link href="http://localhost:1313/providers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elugiran.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

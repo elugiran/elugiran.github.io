@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on E-LUG Embedded Linux User Group</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://elugiran.github.io/categories/</link>
     <description>Recent content in Categories on E-LUG Embedded Linux User Group</description>
     <generator>Hugo</generator>
     <language>fa</language>
     <lastBuildDate>Sun, 15 Dec 2024 11:46:46 +0330</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elugiran.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/categories/events/</link>
-      <pubDate>Mon, 16 Sep 2024 11:13:45 -0800</pubDate>
-      <guid>http://localhost:1313/categories/events/</guid>
+      <link>https://elugiran.github.io/categories/events/</link>
+      <pubDate>Tue, 17 Dec 2024 11:13:45 -0800</pubDate>
+      <guid>https://elugiran.github.io/categories/events/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorials</title>
-      <link>http://localhost:1313/categories/tutorials/</link>
+      <link>https://elugiran.github.io/categories/tutorials/</link>
       <pubDate>Tue, 20 Aug 2024 11:13:45 -0800</pubDate>
-      <guid>http://localhost:1313/categories/tutorials/</guid>
+      <guid>https://elugiran.github.io/categories/tutorials/</guid>
       <description></description>
     </item>
   </channel>
